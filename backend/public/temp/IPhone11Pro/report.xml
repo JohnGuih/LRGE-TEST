@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project id="d5b85755-bb29-4e94-8390-addc53007560" name="Apple_Iphone 11 Pro (A2160)" reportVersion="7.48" licenseID="1192044492" containsGarbage="False" extractionType="Logical" NodeCount="1791" ModelCount="5417" SelectedApps="True" xmlns="http://pa.cellebrite.com/report/2.0">
+  <sourceExtractions>
+    <extractionInfo id="0" name="Lógica" isCustomName="False" type="Logical" deviceName="IPhoneLogical" fullName="Apple iPhone UFED Logical (Generic)" index="0" IsPartialData="False" IsStoppedByUser="False" IsSelectiveExtraction="True" />
+  </sourceExtractions>
+  <caseInformation>
+    <field name="Nome do examinador" isSystem="True" isRequired="True" fieldType="ExaminerName" multipleLines="False">ALFS</field>
+  </caseInformation>
+  <metadata section="Additional Fields">
+    <item name="DeviceInfoCreationTime" systemtype="System.String"><![CDATA[31/03/2023 10:52:21]]></item>
+    <item name="UFED_PA_Version" systemtype="System.String"><![CDATA[7.61.0.12]]></item>
+    <item name="UfdrLanguage" systemtype="System.String"><![CDATA[pt-BR]]></item>
+  </metadata>
+  <metadata section="Extraction Data">
+    <item name="DeviceInfoExtractionStartDateTime" sourceExtraction="0" systemtype="System.String"><![CDATA[31/03/2023 10:41:46 -04:00]]></item>
+    <item name="DeviceInfoExtractionEndDateTime" sourceExtraction="0" systemtype="System.String"><![CDATA[31/03/2023 10:43:48 -04:00]]></item>
+    <item name="DeviceInfoUnitIdentifier" sourceExtraction="0" systemtype="System.String"><![CDATA[1192044492]]></item>
+    <item name="DeviceInfoUnitVersion" sourceExtraction="0" systemtype="System.String"><![CDATA[7.62.0.173]]></item>
+    <item name="DeviceInfoInternalVersion" sourceExtraction="0" systemtype="System.String"><![CDATA[7.62.0.173]]></item>
+    <item name="DeviceInfoSelectedManufacturer" sourceExtraction="0" systemtype="System.String"><![CDATA[Apple]]></item>
+    <item name="DeviceInfoSelectedDeviceName" sourceExtraction="0" systemtype="System.String"><![CDATA[Iphone 11 Pro (A2160)]]></item>
+    <item name="GlobalMachineName" sourceExtraction="0" systemtype="System.String"><![CDATA[DESKTOP-XEON]]></item>
+    <item name="DeviceInfoConnectionType" sourceExtraction="0" systemtype="System.String"><![CDATA[Cable No. 210]]></item>
+    <item name="DeviceInfoBackupPassword" sourceExtraction="0" systemtype="System.String"><![CDATA[1234]]></item>
+    <item name="ExtractionType" sourceExtraction="0" systemtype="System.String"><![CDATA[Lógico [ iTunes Backup ]]]></item>
+    <item name="ProjectStateExtractionId" sourceExtraction="0" systemtype="System.String"><![CDATA[C7ACC32C-AEB9-449F-A2ED-2C8563230717]]></item>
+    <item name="UFDIntegrity" sourceExtraction="0" systemtype="System.String"><![CDATA[Intacto]]></item>
+    <item name="DeviceInfoReportType" sourceExtraction="0" systemtype="System.String"><![CDATA[Telefone]]></item>
+  </metadata>
+  <metadata section="Device Info">
+    <item id="f818a3c7-d7c1-4d73-8fa1-1403c2754815" name="Model" sourceExtraction="0" systemtype="System.String"><![CDATA[iPhone12,3]]></item>
+    <item id="ab451e54-a898-4b51-8bf2-d4c51e6806ed" name="OS" sourceExtraction="0" systemtype="System.String"><![CDATA[15.6.1]]></item>
+    <item id="cd16f745-af2b-4814-b993-1147bb6b23cd" name="OS_Version" sourceExtraction="0" systemtype="System.String"><![CDATA[15.6.1]]></item>
+    <item id="683c2645-6bc6-4e23-a594-e0bb7b3d1cda" name="Vendor" sourceExtraction="0" systemtype="System.String"><![CDATA[Apple]]></item>
+    <item id="49bff317-4ae6-4e66-a1d4-9db7adf59271" name="DeviceInfoDetectedModel" sourceExtraction="0" systemtype="System.String"><![CDATA[MWAP2]]></item>
+    <item id="18a03912-0bf0-46ca-b6b1-c18ad57321a5" name="DeviceInfoRevision" sourceExtraction="0" systemtype="System.String"><![CDATA[15.6.1 (19G82)]]></item>
+    <item id="a94f33c3-e4e1-459d-aeeb-e3cdeb18d50b" name="IMEI" sourceExtraction="0" systemtype="System.String"><![CDATA[353238101766631]]></item>
+    <item id="7be6f2eb-3db0-443d-a32f-db0154564bc6" name="DeviceInfoSerial" sourceExtraction="0" systemtype="System.String"><![CDATA[C39ZH6JFN6XN]]></item>
+    <item id="65a207e9-6fa1-4c0c-b27f-38836cbfc48c" name="ICCID" sourceExtraction="0" systemtype="System.String"><![CDATA[89551095260151290444]]></item>
+    <item id="36518ba0-bb75-41f9-8981-7474a8f59eb0" name="MSISDN" sourceExtraction="0" systemtype="System.String"><![CDATA[+55 (92) 99410-4913]]></item>
+    <item id="9bc71f08-5a5d-438a-b18e-9f0e49c7f0b7" name="MSISDN Type" sourceExtraction="0" systemtype="System.String"><![CDATA[MSISDN]]></item>
+    <item id="e5ea1129-e681-4d99-87c2-a992459cb02b" name="IMSI" sourceExtraction="0" systemtype="System.String"><![CDATA[724119793721893]]></item>
+    <item id="6e587ec9-a219-4254-80da-ca13c6d8601d" name="DeviceInfoBluetoothDeviceAddress" sourceExtraction="0" systemtype="System.String"><![CDATA[7c:a1:ae:0d:7c:84]]></item>
+    <item id="9c39ea50-2cf4-49a5-9496-e98593e86749" name="DeviceInfoWiFiAddress" sourceExtraction="0" systemtype="System.String"><![CDATA[7c:a1:ae:14:f8:a2]]></item>
+    <item id="778c0fb2-a324-4a9f-b2e4-cab6bed14cf7" name="Unique Device ID" sourceExtraction="0" systemtype="System.String"><![CDATA[00008030-000C71891438802E]]></item>
+    <item id="68cd0e23-e4f4-4626-8490-2b1ad0ead224" name="Call-logs" group="Extraction Notes" sourceExtraction="0" systemtype="System.String"><![CDATA[Chamadas de áudio ou vídeo FaceTime]]></item>
+    <item id="972753d6-ca3f-4b4b-a3dc-27c142e16b05" name="E-mail" group="Extraction Notes" sourceExtraction="0" systemtype="System.String"><![CDATA[A extração de e-mail nos dispositivos da Apple só está disponível para dispositivos violados.]]></item>
+    <item id="f9036b8d-a26f-43a1-8f83-e8cd31d7acf6" name="DeviceInfoDetectedPhoneModelIdentifier" group="iPhone" sourceExtraction="0" systemtype="System.String"><![CDATA[iPhone12,3]]></item>
+    <item id="4520d947-a7fe-4472-94e0-a7f0fffa1032" name="DeviceInfoUniqueID" group="iPhone" sourceExtraction="0" systemtype="System.String"><![CDATA[00008030-000C71891438802E]]></item>
+    <item id="66d1f49a-edaa-4b24-8dba-a9767801e627" name="DeviceInfoIsEncrypted" group="iPhone" sourceExtraction="0" systemtype="System.String"><![CDATA[True]]></item>
+    <item id="4264382d-634d-49cd-89b1-623a25f35ccf" name="IMEI" group="iPhone" sourceExtraction="0" systemtype="System.String"><![CDATA[353238101766631]]></item>
+    <item id="90607b9d-b265-4196-b964-dae520158b6f" name="DeviceInfoOSVersion" group="iPhone" sourceExtraction="0" systemtype="System.String"><![CDATA[15.6.1]]></item>
+    <item id="51198612-05c2-4329-ab21-c954cd4d71d9" name="DeviceInfoSerial" group="iPhone" sourceExtraction="0" systemtype="System.String"><![CDATA[C39ZH6JFN6XN]]></item>
+    <item id="1545ff3e-6fb2-4649-a5e5-fa0bcd56f603" name="DeviceInfoOwnerName" group="iPhone" sourceExtraction="0" systemtype="System.String"><![CDATA[iPhone]]></item>
+    <item id="fbd0ee43-1afb-4ddd-83c7-28c806836424" name="ICCID" group="iPhone" sourceExtraction="0" systemtype="System.String"><![CDATA[89551095260151290444]]></item>
+    <item id="22d82bda-eff9-41b6-8cd6-89b13e0ad580" name="MSISDN" group="iPhone" sourceExtraction="0" systemtype="System.String"><![CDATA[+55 (92) 99410-4913]]></item>
+    <item id="4f3c6dfe-7d51-4d47-aacc-ba26dc322d6d" name="Message Retention Duration" group="Phone Settings" sourceExtraction="0" systemtype="System.String"><![CDATA[Forever]]></item>
+    <item id="41f0bf0a-947c-4ef5-b97b-0bbddb2003c9" name="DeviceInfoLastHotspotActivity" group="Tethering" sourceExtraction="0" systemtype="System.String"><![CDATA[31/03/2023 14:27:42(UTC+0)]]></item>
+    <item id="4463a9aa-c86e-4cf0-95c7-ac5bf1aca6a8" name="DeviceInfoModelNumber" sourceExtraction="0" systemtype="System.String"><![CDATA[D421AP]]></item>
+    <item id="a518a524-71a2-43a9-ac95-15831f78c3b6" name="MSISDN" group="Physical SIM" sourceExtraction="0" systemtype="System.String"><![CDATA[+5592994674282]]></item>
+    <item id="1fe76f56-d7f2-41a0-b0ce-664c5eb695da" name="LastUsedMSISDN" group="Physical SIM" sourceExtraction="0" systemtype="System.String"><![CDATA[+5592994104913]]></item>
+    <item id="be468722-11b2-4cd9-a694-7ad442331f94" name="ICCID" group="Physical SIM" sourceExtraction="0" systemtype="System.String"><![CDATA[89551094360051903681]]></item>
+    <item id="7a914887-213c-46fd-9a83-9435676732c2" name="LastUsedICCID" group="Physical SIM" sourceExtraction="0" systemtype="System.String"><![CDATA[89551095260151290444]]></item>
+    <item id="abd2e7ea-55b5-4693-93a4-a7fdf8d43b59" name="DeviceInfoAirDropID" sourceExtraction="0" systemtype="System.String"><![CDATA[3d40e4350b81]]></item>
+    <item id="dfa08684-3496-4492-aaac-f9e18b5a9971" name="DeviceInfoLastCloudBackupDate" sourceExtraction="0" systemtype="PA.Data.Utils.TimeStamp">2023-03-13T00:34:32.000+00:00</item>
+    <item id="f63597d8-e518-4e91-b21c-ad01a24c5cc3" name="DeviceInfoAppleID" sourceExtraction="0" systemtype="System.String"><![CDATA[11111111111111@gmail.com]]></item>
+    <item id="cd7fc072-8fd7-472a-b3d5-d456cd0f1248" name="DeviceInfoiCloudAccountPresent" sourceExtraction="0" systemtype="System.String"><![CDATA[True]]></item>
+    <item id="d8bd1395-0c58-4fab-8687-7d15cf5d64b1" name="DeviceInfoOSType" group="Metadata" sourceExtraction="0" systemtype="System.String"><![CDATA[iOS]]></item>
+    <item id="1227f620-b859-495d-a278-9413a08a6fd3" name="DeviceInfoAppleID" sourceExtraction="0" systemtype="System.String"><![CDATA[11111111112@gmail.com]]></item>
+    <item id="25097c91-38f5-4deb-87d3-37eee425b881" name="DeviceInfoLocationServicesEnabled" group="Phone Settings" sourceExtraction="0" systemtype="System.String"><![CDATA[True]]></item>
+    <item id="d71d7384-a2df-44bb-8bd1-d04e964100ba" name="LastUsedICCID" sourceExtraction="0" systemtype="System.String"><![CDATA[89551095260151290444]]></item>
+    <item id="e2cf2823-85bf-43f7-9f11-d99f0cf218e2" name="MSISDN" sourceExtraction="0" systemtype="System.String"><![CDATA[5592994104913]]></item>
+    <item id="5d818f63-ad2a-48ca-84b8-72ede0590943" name="DeviceInfoUniqueID" sourceExtraction="0" systemtype="System.String"><![CDATA[00008030-000C71891438802E]]></item>
+    <item id="60ca3160-7cf0-4a4d-a69e-f2f94a58d389" name="DeviceInfoDetectedModel" sourceExtraction="0" systemtype="System.String"><![CDATA[iPhone (D421AP)]]></item>
+    <item id="371450ef-a0b3-4d33-ad7b-a02dbc48664a" name="DeviceInfoPhoneDateTime" sourceExtraction="0" systemtype="System.String"><![CDATA[31/03/2023 14:46:31(UTC+0)]]></item>
+    <item id="427095a2-b21a-4dfa-9cac-962a8df22fd5" name="DeviceInfoDetectedPhoneModelIdentifier" sourceExtraction="0" systemtype="System.String"><![CDATA[iPhone12,3]]></item>
+    <item id="d82ac59f-29a8-4864-b521-e76873ebe32b" name="DeviceInfoOSVersion" sourceExtraction="0" systemtype="System.String"><![CDATA[15.6.1]]></item>
+    <item id="2aa53214-6564-4530-9ea1-251b79af5848" name="DeviceInfoLocaleLanguage" group="Phone Settings" sourceExtraction="0" systemtype="System.String"><![CDATA[pt_BR]]></item>
+    <item id="ee5cd944-0d32-4622-a7c1-12b5c5b50145" name="DeviceInfoCloudBackupEnabled" group="Phone Settings" sourceExtraction="0" systemtype="System.String"><![CDATA[True]]></item>
+    <item id="27f6233b-4d64-4ab4-92a4-c66ea0bd4bbf" name="DeviceInfoPhoneDateTime" sourceExtraction="0" systemtype="PA.Data.Utils.TimeStamp">2023-03-31T14:46:31.707+00:00</item>
+    <item id="db987f7e-e06c-4844-a893-c355585aaded" name="DeviceInfoDetectedPhoneModel" sourceExtraction="0" systemtype="System.String"><![CDATA[iPhone 11 Pro]]></item>
+  </metadata>
+</project>
